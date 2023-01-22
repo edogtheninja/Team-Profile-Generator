@@ -1,0 +1,22 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "generates a HTML which lists employees",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edogtheninja/Team-Profile-Generator.git"
+  },
+  "keywords": [
+    "N/A"
+  ],
+  "author": "Ethan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edogtheninja/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/edogtheninja/Team-Profile-Generator#readme"
+}
